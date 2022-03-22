@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  p2m-html5-game-plinko:
+    image: ubuntu:20.04
+    container_name: p2m-html5-game-plinko
+    hostname: p2m-html5-game-plinko
+    volumes:
+      - ./:/var/www/app
+    working_dir: /var/www/app
+    entrypoint: >
+      bash -c "./docker-compose-entrypoint.sh && ./build.sh"

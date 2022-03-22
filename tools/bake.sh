@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Path to impact.js and your game's main .js
+# Path to impact.js and your game's main .js 
 IMPACT_LIBRARY=lib/impact/impact.js
 GAME=lib/game/main.js
 

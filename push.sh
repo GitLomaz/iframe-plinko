@@ -2,7 +2,7 @@
 # MarketJS Deployment System
 # -----------------------------------------------------------------------
 # Copyright (c) 2012 MarketJS Limited. Certain portions may come from 3rd parties and
-# carry their own licensing terms and are referenced where applicable.
+# carry their own licensing terms and are referenced where applicable. 
 # -----------------------------------------------------------------------
 
 #! /bin/bash

@@ -1,6 +1,6 @@
 #!/bin/sh
 #This script was created 17/5/2010 by Paul Tero (www.tero.co.uk/scripts/minify.php) to remove comments
-#and extra spaces from Javascript and CSS files.
+#and extra spaces from Javascript and CSS files. 
 
 #There must be at least 2 arguments, which is the CSS and JS files to compress
 if test $# -lt 2; then echo Usage $0 Input-CSS-or-JS-file Output-CSS-or-JS-file; exit 1; fi

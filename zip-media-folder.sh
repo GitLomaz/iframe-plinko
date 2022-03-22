@@ -1,6 +1,6 @@
 #! /bin/bash
 # Usage: zip-media-folder.sh en  : en = English
-# Will zip media folder to media.zip, into _factory/localization/en/media.zip
+# Will zip media folder to media.zip, into _factory/localization/en/media.zip 
 
 CURRENT_DIRECTORY=${PWD##*/}
 

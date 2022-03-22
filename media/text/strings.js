@@ -28,15 +28,14 @@ var _STRINGS = {
 	},
 
 	"Game":{
-		"Instructions":"Choose one to win!"
+		"SelectPlayer":"Select Player",
+		"Win":"You win!",
+		"Lose":"You lose!",
+		"Score":"Score",
+		"Time":"Time",
 	},
 
 	"Results":{
-		"Point":"point!",
-		"Points":"points!",
-		"PlayAgain":"Play again",
-		"PlayRemaining":"%d play remaining",
-		"PlaysRemaining":"%d plays remaining",
-		"BetterNextTime":"Better luck next time"
-	},
+		"Title":"High score",
+	},	
 };

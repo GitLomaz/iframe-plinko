@@ -1,4 +1,4 @@
-ARCHIVE_NAME=${PWD##*/}
+ARCHIVE_NAME="artifacts"
 
 build_archive (){
 	echo "Building archive ..."
@@ -23,7 +23,7 @@ build_archive_promo (){
 	then
 	    echo "File not found!"
 	else
-	echo "File exist. Removing"
+	echo "File exist. Removing" 
 	rm ./$ARCHIVE_NAME-promo.zip
 	fi
 

@@ -49,7 +49,7 @@
 #MobileAdInGamePreroll-Box-Close, #MobileAdInGamePreroll2-Box-Close, #MobileAdInGamePreroll3-Box-Close {
     position:absolute;
     z-index:10005;
-    background-image:url('../../../../../../media/graphics/generic-ad/light/close-button.png'); /* NEED TO RENAME */
+    /* background-image:url('../../../../../../media/graphics/generic-ad/light/close-button.png'); */ 
     background-repeat:no-repeat;
     /*border:1px solid #ccc;*/
     width:22px;

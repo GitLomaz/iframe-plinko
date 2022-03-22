@@ -17,7 +17,7 @@ html,body {
 }
 
 #ajaxbar{
-	background:url('media/graphics/loading/ajax-loader.gif') center no-repeat;
+	/* background:url('media/graphics/loading/ajax-loader.gif') center no-repeat; */ 
 }
 
 #canvas {

@@ -10,6 +10,7 @@ fi
 
 zip -r ./www.zip ./index.html ./game.js ./game.css ./media ./branding
 
+
 #git add --all
 #git commit -m "updating"
 #git push origin master

@@ -1,3 +1,0 @@
-include = "{$include,.gitignore,,.htpasswd,.htaccess,jshintrc,.editorconfig,.tmp,.prettifyrc,node_modules/bootstrap-sass}"
-excludeInFolderSearch = "{$excludeInFolderSearch,node_modules}"
-excludeInFileChooser = "{$exclude,$excludeInFolderSearch}"

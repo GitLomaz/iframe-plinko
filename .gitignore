@@ -1160,3 +1160,9 @@ FodyWeavers.xsd
 
 boto-s3-upload.py
 push-s3.sh
+
+# Carltonone added..
+.scannerwork
+game.css
+game.js
+index.html
